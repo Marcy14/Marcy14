@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/IT Professional/Systems Administrator)`**
 
-I'm an indie developer and IT Professional currently working as a Systems Administrator, I'm just building my idea of the digital world one step at a time. All my coding projects are built from the ground up, I plan and design my projects with the intention of showcasing them to followers and potential employers with the intention of one day turning my programming hobby into a dream job 💁💭. At first I'm going to share some basic HTML, CSS and JavaScript projects and progressively advance to solving real-life problems with code. You can find out more about me on my LinkedIn page "[Conor Maher][LinkedIn]" and on my portfolio website "[Marcey14]". 
+I'm an indie developer and IT Professional currently working as a Systems Administrator, I'm building my idea of the digital world one step at a time. All my coding projects are built from the ground up, I plan and design my projects with the intention of showcasing them to followers and potential employers with the intention of one day turning my programming hobby into a dream job 💁💭. At first I'm going to share some basic HTML, CSS and JavaScript projects and progressively advance to solving real-life problems with more advanced libraries. You can find out more about me on my LinkedIn page "[Conor Maher][LinkedIn]" and on my portfolio website "[Marcy14.com]". 
 
 ---
 
@@ -28,7 +28,7 @@ I'm an indie developer and IT Professional currently working as a Systems Admini
 
 ### 📊 Stats
 
-![Marcey14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcy14&show_icons=true&theme=gruvbox)
+![Marcy14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcy14&show_icons=true&theme=gruvbox)
 
 #
 <details>
@@ -44,4 +44,4 @@ I worked as a Service Desk Administrator until August 2024, when I handed in my 
 ---
 
 [LinkedIn]: https://www.linkedin.com/in/conor-maher-17b896121/
-[Marcey14]: https://www.marcey14.com
+[Marcy14.com]: https://www.marcy14.com
